@@ -3,7 +3,7 @@
 This repository contains the official implementation for the papers:
 
 - [**Amortized In-Context Bayesian Posterior Estimation**](https://arxiv.org/abs/2502.06601)
-- **In-Context Parametric Inference: Point or Distribution Estimators?**
+- [**In-Context Parametric Inference: Point or Distribution Estimators?**](https://arxiv.org/abs/2502.11617)
 
 
 ## Overview
@@ -63,6 +63,13 @@ If you find this repository useful, please cite our work:
   title={Amortized In-Context Bayesian Posterior Estimation},
   author={Mittal, Sarthak and Bracher, Niels Leif and Lajoie, Guillaume and Jaini, Priyank and Brubaker, Marcus},
   journal={arXiv preprint arXiv:2502.06601},
+  year={2025}
+}
+
+@article{mittal2025in,
+  title={Amortized In-Context Bayesian Posterior Estimation},
+  author={Mittal, Sarthak and Bengio, Yoshua and Malkin, Nikolay and Lajoie, Guillaume},
+  journal={https://arxiv.org/abs/2502.11617},
   year={2025}
 }
 ```
